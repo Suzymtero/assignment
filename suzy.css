@@ -1,0 +1,54 @@
+body{
+    background-color: pink;
+}
+
+a{
+text-decoration: none;
+margin-left: 3%;    
+color: black;
+}
+
+a:hover{
+    color: rgb(230, 230, 214);
+    background-color: rgb(8, 2, 2);
+}
+
+header{
+    background-color: gray;
+}
+
+h2{
+    color: red;
+}
+
+div.one{
+    box-shadow: 0 0 40px;
+    width: fit-content;
+   
+}
+
+div.two{
+    box-shadow: 0 0 40px;
+    width: fit-content;
+
+    margin-left: 37%;
+    margin-top: -22%;
+}
+
+div.three{
+    box-shadow: 0 0 40px;
+    width: fit-content;
+    
+    margin-left: 75%;
+    margin-top: -22%;
+}
+
+p.p2{
+    margin-left: 37%;
+    margin-top: -18%;
+}
+
+p.p3{
+    margin-left: 75%;
+    margin-top: -18%;
+}

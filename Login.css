@@ -1,0 +1,33 @@
+body{
+    background-color: pink;
+}
+
+a{
+text-decoration: none;
+margin-left: 3%;    
+color: black;
+}
+
+a:hover{
+    color: rgb(230, 230, 214);
+    background-color: rgb(8, 2, 2);
+}
+
+header{
+    background-color: gray;
+}
+
+h2{
+    color: red;
+}
+
+h1{
+    background-color: blue;
+    width: fit-content;
+    cursor: pointer;
+}
+
+h1:hover{
+    color: white;
+    background-color: green;
+}

@@ -1,0 +1,57 @@
+body{
+    background-color: pink;
+}
+
+a{
+text-decoration: none;
+margin-left: 3%;    
+color: black;
+}
+
+a:hover{
+    color: rgb(230, 230, 214);
+    background-color: rgb(8, 2, 2);
+}
+
+header{
+    background-color: gray;
+}
+
+
+div.s{
+    margin-left: 25%;
+    margin-top: -1%;
+}
+
+h2.i{
+    margin-top: 5%;
+    margin-left: 30%;
+    color: red;
+}
+
+div.age{
+    margin-top: -1.5%;
+    margin-left: 25%;
+}
+
+div.re{
+    margin-top: -1.5%;
+    margin-left: 25%;
+}
+
+div.p{
+    margin-top: -1.5%;
+    margin-left: 25%;
+}
+
+div.reg{
+    background-color: aqua;
+    height: 45%;
+    padding-top: 1%;
+    padding-left: 3%;
+}
+
+div.acc{
+    margin-top: -3%;
+    margin-left: 25%;
+}
